@@ -1,0 +1,16 @@
+C:\Users\kwedw\OneDrive\Desktop\Revature\Onboarding Projects\Code_Challenge_10_25\bin\Debug\net6.0\Code_Challenge_10_25.exe
+C:\Users\kwedw\OneDrive\Desktop\Revature\Onboarding Projects\Code_Challenge_10_25\bin\Debug\net6.0\Code_Challenge_10_25.deps.json
+C:\Users\kwedw\OneDrive\Desktop\Revature\Onboarding Projects\Code_Challenge_10_25\bin\Debug\net6.0\Code_Challenge_10_25.runtimeconfig.json
+C:\Users\kwedw\OneDrive\Desktop\Revature\Onboarding Projects\Code_Challenge_10_25\bin\Debug\net6.0\Code_Challenge_10_25.dll
+C:\Users\kwedw\OneDrive\Desktop\Revature\Onboarding Projects\Code_Challenge_10_25\bin\Debug\net6.0\Code_Challenge_10_25.pdb
+C:\Users\kwedw\OneDrive\Desktop\Revature\Onboarding Projects\Code_Challenge_10_25\obj\Debug\net6.0\Code_Challenge_10_25.csproj.AssemblyReference.cache
+C:\Users\kwedw\OneDrive\Desktop\Revature\Onboarding Projects\Code_Challenge_10_25\obj\Debug\net6.0\Code_Challenge_10_25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwedw\OneDrive\Desktop\Revature\Onboarding Projects\Code_Challenge_10_25\obj\Debug\net6.0\Code_Challenge_10_25.AssemblyInfoInputs.cache
+C:\Users\kwedw\OneDrive\Desktop\Revature\Onboarding Projects\Code_Challenge_10_25\obj\Debug\net6.0\Code_Challenge_10_25.AssemblyInfo.cs
+C:\Users\kwedw\OneDrive\Desktop\Revature\Onboarding Projects\Code_Challenge_10_25\obj\Debug\net6.0\Code_Challenge_10_25.ImplicitNamespaceImports.cs
+C:\Users\kwedw\OneDrive\Desktop\Revature\Onboarding Projects\Code_Challenge_10_25\obj\Debug\net6.0\Code_Challenge_10_25.csproj.CoreCompileInputs.cache
+C:\Users\kwedw\OneDrive\Desktop\Revature\Onboarding Projects\Code_Challenge_10_25\obj\Debug\net6.0\Code_Challenge_10_25.dll
+C:\Users\kwedw\OneDrive\Desktop\Revature\Onboarding Projects\Code_Challenge_10_25\obj\Debug\net6.0\refint\Code_Challenge_10_25.dll
+C:\Users\kwedw\OneDrive\Desktop\Revature\Onboarding Projects\Code_Challenge_10_25\obj\Debug\net6.0\Code_Challenge_10_25.pdb
+C:\Users\kwedw\OneDrive\Desktop\Revature\Onboarding Projects\Code_Challenge_10_25\obj\Debug\net6.0\Code_Challenge_10_25.genruntimeconfig.cache
+C:\Users\kwedw\OneDrive\Desktop\Revature\Onboarding Projects\Code_Challenge_10_25\obj\Debug\net6.0\ref\Code_Challenge_10_25.dll
